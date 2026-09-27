@@ -27,7 +27,7 @@ An interactive Streamlit application is also developed to demonstrate model pred
 
 ## c. GitHub Repository Link
 
-**GitHub Repository:** (https://github.com/Tessa358/Heart-Disease-ML-Assignment.git)
+**GitHub Repository:** (https://heart-disease-prediction-ka2wmzh8vpuem7z5iy95ew.streamlit.app/)
 
 ## d. Models Used
 
